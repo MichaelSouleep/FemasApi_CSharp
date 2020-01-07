@@ -175,7 +175,7 @@ namespace CSharpFemasTradeApi
     {
         private IntPtr api;
 
-        const string strDllFile = "stpoptcsharptdapi.dll";
+        const string strDllFile = "femascsharptdapi.dll";
 
         private string FlowPath;
 
